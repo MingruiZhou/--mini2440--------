@@ -1,0 +1,12 @@
+.\out\ui.o: class\ui.c
+.\out\ui.o: F:\Keil\ARM\RV31\INC\stdio.h
+.\out\ui.o: class\ui.h
+.\out\ui.o: class\share.h
+.\out\ui.o: .\sys\sys.h
+.\out\ui.o: .\sys\adc.h
+.\out\ui.o: .\src\gui.h
+.\out\ui.o: class\elementPic.h
+.\out\ui.o: class\menuPic.h
+.\out\ui.o: class\titlePic.h
+.\out\ui.o: .\sys\LCD.h
+.\out\ui.o: F:\Keil\ARM\INC\Samsung\s3c2440.h

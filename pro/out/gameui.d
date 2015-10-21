@@ -1,0 +1,16 @@
+.\out\gameui.o: class\gameUi.c
+.\out\gameui.o: class\gameUi.h
+.\out\gameui.o: class\ui.h
+.\out\gameui.o: class\share.h
+.\out\gameui.o: .\sys\sys.h
+.\out\gameui.o: .\sys\adc.h
+.\out\gameui.o: .\src\gui.h
+.\out\gameui.o: class\elementPic.h
+.\out\gameui.o: class\menuPic.h
+.\out\gameui.o: class\titlePic.h
+.\out\gameui.o: class\element.h
+.\out\gameui.o: .\sys\LCD.h
+.\out\gameui.o: F:\Keil\ARM\INC\Samsung\s3c2440.h
+.\out\gameui.o: class\mat.h
+.\out\gameui.o: class\gameMng.h
+.\out\gameui.o: class\myUi.h

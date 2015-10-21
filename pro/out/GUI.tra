@@ -1,0 +1,68 @@
+*** Creating Trace Output File '.\out\GUI.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\out\gui.o"'
+### List of Objects: adding '".\out\main.o"'
+### List of Objects: adding '".\out\gpio.o"'
+### List of Objects: adding '".\out\irq.o"'
+### List of Objects: adding '".\out\mmu.o"'
+### List of Objects: adding '".\out\s3c2440.o"'
+### List of Objects: adding '".\out\uart.o"'
+### List of Objects: adding '".\out\clock.o"'
+### List of Objects: adding '".\out\lcd.o"'
+### List of Objects: adding '".\out\timer.o"'
+### List of Objects: adding '".\out\adc.o"'
+### List of Objects: adding '".\out\font16x16.o"'
+### List of Objects: adding '".\out\zm16x16.o"'
+### List of Objects: adding '".\out\element.o"'
+### List of Objects: adding '".\out\gamemng.o"'
+### List of Objects: adding '".\out\gameui.o"'
+### List of Objects: adding '".\out\mat.o"'
+### List of Objects: adding '".\out\myui.o"'
+### List of Objects: adding '".\out\share.o"'
+### List of Objects: adding '".\out\ui.o"'
+### List of Objects: adding '".\out\element1.o"'
+### List of Objects: adding '".\out\element2.o"'
+### List of Objects: adding '".\out\element3.o"'
+### List of Objects: adding '".\out\element4.o"'
+### List of Objects: adding '".\out\element5.o"'
+### List of Objects: adding '".\out\element6.o"'
+### List of Objects: adding '".\out\element7.o"'
+### List of Objects: adding '".\out\element8.o"'
+### List of Objects: adding '".\out\element9.o"'
+### List of Objects: adding '".\out\element10.o"'
+### List of Objects: adding '".\out\element11.o"'
+### List of Objects: adding '".\out\element12.o"'
+### List of Objects: adding '".\out\tit_exitgame.o"'
+### List of Objects: adding '".\out\tit_lian.o"'
+### List of Objects: adding '".\out\tit_seccess.o"'
+### List of Objects: adding '".\out\tit_start.o"'
+### List of Objects: adding '".\out\white.o"'
+### List of Objects: adding '".\out\tit_noconnect.o"'
+### List of Objects: adding '".\out\tit_timeout.o"'
+### List of Objects: adding '".\out\tit_win.o"'
+### List of Objects: adding '".\out\menu_back.o"'
+### List of Objects: adding '".\out\menu_block1.o"'
+### List of Objects: adding '".\out\menu_block2.o"'
+### List of Objects: adding '".\out\menu_block3.o"'
+### List of Objects: adding '".\out\menu_exit.o"'
+### List of Objects: adding '".\out\menu_g_back.o"'
+### List of Objects: adding '".\out\menu_next.o"'
+### List of Objects: adding '".\out\menu_restart.o"'
+### List of Objects: adding '".\out\menu_again.o"'
+### List of Objects: adding '".\out\menu_ok.o"'
+### ADS-LD Command completed:
+--cpu ARM920T ".\out\gui.o" ".\out\main.o" ".\out\gpio.o" ".\out\irq.o" ".\out\mmu.o" ".\out\s3c2440.o" ".\out\uart.o" ".\out\clock.o" ".\out\lcd.o" ".\out\timer.o" ".\out\adc.o" ".\out\font16x16.o" ".\out\zm16x16.o" ".\out\element.o" ".\out\gamemng.o" ".\out\gameui.o" ".\out\mat.o" ".\out\myui.o" ".\out\share.o" ".\out\ui.o" ".\out\element1.o" ".\out\element2.o" ".\out\element3.o" ".\out\element4.o" ".\out\element5.o" ".\out\element6.o" ".\out\element7.o" ".\out\element8.o" ".\out\element9.o" ".\out\element10.o" ".\out\element11.o" ".\out\element12.o" ".\out\tit_exitgame.o" ".\out\tit_lian.o" ".\out\tit_seccess.o" ".\out\tit_start.o" ".\out\white.o" ".\out\tit_noconnect.o" ".\out\tit_timeout.o" ".\out\tit_win.o" ".\out\menu_back.o" ".\out\menu_block1.o" ".\out\menu_block2.o" ".\out\menu_block3.o" ".\out\menu_exit.o" ".\out\menu_g_back.o" ".\out\menu_next.o" ".\out\menu_restart.o" ".\out\menu_again.o" ".\out\menu_ok.o" --rwpi --scatter ".\out\GUI.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\out\GUI.map" -o ".\out\GUI.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\out\GUI.axf'
+### ADS-LD Command File: '.\out\GUI.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\out\GUI.lnp', Handle=0x00000020
+### Writing '.lnp' file
+### ADS-LD Command file '.\out\GUI.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

@@ -1,0 +1,10 @@
+.\out\myui.o: class\myUi.c
+.\out\myui.o: class\myUi.h
+.\out\myui.o: class\share.h
+.\out\myui.o: .\sys\sys.h
+.\out\myui.o: .\sys\adc.h
+.\out\myui.o: .\src\gui.h
+.\out\myui.o: class\elementPic.h
+.\out\myui.o: class\menuPic.h
+.\out\myui.o: class\titlePic.h
+.\out\myui.o: class\ui.h

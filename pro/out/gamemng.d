@@ -1,0 +1,13 @@
+.\out\gamemng.o: class\gameMng.c
+.\out\gamemng.o: class\gameMng.h
+.\out\gamemng.o: class\share.h
+.\out\gamemng.o: .\sys\sys.h
+.\out\gamemng.o: .\sys\adc.h
+.\out\gamemng.o: .\src\gui.h
+.\out\gamemng.o: class\elementPic.h
+.\out\gamemng.o: class\menuPic.h
+.\out\gamemng.o: class\titlePic.h
+.\out\gamemng.o: class\mat.h
+.\out\gamemng.o: class\element.h
+.\out\gamemng.o: .\sys\LCD.h
+.\out\gamemng.o: F:\Keil\ARM\INC\Samsung\s3c2440.h

@@ -1,0 +1,10 @@
+.\out\share.o: class\share.c
+.\out\share.o: class\share.h
+.\out\share.o: .\sys\sys.h
+.\out\share.o: .\sys\adc.h
+.\out\share.o: .\src\gui.h
+.\out\share.o: class\elementPic.h
+.\out\share.o: class\menuPic.h
+.\out\share.o: class\titlePic.h
+.\out\share.o: .\sys\LCD.h
+.\out\share.o: F:\Keil\ARM\INC\Samsung\s3c2440.h

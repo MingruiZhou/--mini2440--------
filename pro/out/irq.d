@@ -1,0 +1,10 @@
+.\out\irq.o: sys\IRQ.c
+.\out\irq.o: F:\Keil\ARM\INC\Samsung\s3c2440.h
+.\out\irq.o: sys\IRQ.h
+.\out\irq.o: sys\sys.h
+.\out\irq.o: sys\adc.h
+.\out\irq.o: .\class\share.h
+.\out\irq.o: .\src\gui.h
+.\out\irq.o: .\class\elementPic.h
+.\out\irq.o: .\class\menuPic.h
+.\out\irq.o: .\class\titlePic.h

@@ -1,0 +1,14 @@
+.\out\mat.o: class\mat.c
+.\out\mat.o: class\mat.h
+.\out\mat.o: class\element.h
+.\out\mat.o: .\sys\LCD.h
+.\out\mat.o: F:\Keil\ARM\INC\Samsung\s3c2440.h
+.\out\mat.o: .\sys\sys.h
+.\out\mat.o: class\share.h
+.\out\mat.o: .\sys\adc.h
+.\out\mat.o: .\src\gui.h
+.\out\mat.o: class\elementPic.h
+.\out\mat.o: class\menuPic.h
+.\out\mat.o: class\titlePic.h
+.\out\mat.o: F:\Keil\ARM\RV31\INC\stdlib.h
+.\out\mat.o: F:\Keil\ARM\RV31\INC\stdio.h
